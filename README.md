@@ -40,8 +40,6 @@ The platform helps collectors:
 
 > **Identify → Value → Compare → Sell → Track → Earn**
 
-while helping recyclers efficiently discover and collect suitable e-waste lots.
-
 ---
 
 # 🎯 Problem Statement
