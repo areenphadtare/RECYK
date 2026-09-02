@@ -4,12 +4,7 @@
 
 > **SIH 2026 | Problem ID: SIH26229 | Clean & Green Technology**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SIH-2026-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem-SIH26229-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Category-Software-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Theme-Clean%20%26%20Green-success?style=for-the-badge" />
-</p>
+
 
 <p align="center">
   <b>Making formal e-waste recycling more profitable, accessible, safe, and transparent for informal collectors.</b>
